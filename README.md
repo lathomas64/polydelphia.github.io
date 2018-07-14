@@ -2,8 +2,8 @@
 
 ## Setup
 
-- `git clone https://github.com/polydelphia/polydelphia.org` - Download the code from git.
-- `cd polydelphia.org` - Go into the code directory.
+- `git clone https://github.com/polydelphia/polydelphia.github.io` - Download the code from git.
+- `cd polydelphia.github.io` - Go into the code directory.
 - `pip install -r requirements.txt` - Install the python package requirements.
 
 ## Commands
@@ -15,4 +15,4 @@
 
 - [MkDocs](https://www.mkdocs.org/) site build tool.
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) site style theme.
-- [TravisCI](https://travis-ci.com/polydelphia/polydelphia.org) automatic site deployment to GitHub pages.
+- [TravisCI](https://travis-ci.com/polydelphia/polydelphia.github.io) automatic site deployment to GitHub pages.
