@@ -4,7 +4,7 @@ Polydelphia’s mission is to provide a safe, welcoming, inclusive community for
 
 ## Core Values
 
-### *Because we value **inclusiveness**… (which IS a WORD)*
+### *Because we value **inclusiveness**…*
 
 We welcome all people interested in the pursuit of ethical non-monogamy, regardless of age, race, religion, sexual and gender identity (including asexual and agender), disability, family and relationship status, and socioeconomic status.
 
