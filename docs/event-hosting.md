@@ -2,7 +2,7 @@
 
 Polydelphia is a member-driven online and real-life community for non-monogamous folks. Hosting your first event can be a bit daunting, but with attention to some key considerations you can have an inclusive, fun, safe event that will build community and connection -- without too much effort!
 
-**Read this guide -- but also message Aaron Browne, Polydelphia steering committee member & unofficial event ambassador, to create an official Polydelphia event.**
+**Read this guide -- but also message any Steering Committee member if you have questions about creating an event.**
 
 ## Set Your Tone, Vibe, and Intentions
 
